@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hola 👋
 
 <!--
 **Laura-Bernal12/Laura-Bernal12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Soy estudiante de tercer año de Bachillerato Técnico Vocacional en Desarrollo de Software.En el INSTITUTO NACIONAL PROFA BERTHA FIDELIA CAÑAS.
+Me interesa la programación, el desarrollo web y el aprendizaje continuo de nuevas tecnologías. Me esfuerzo por mejorar mis habilidades cada día para convertirme en una profesional capaz de crear soluciones innovadoras mediante la tecnología.
+
